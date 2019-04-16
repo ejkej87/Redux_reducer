@@ -1,0 +1,24 @@
+{
+  "name": "Redux_reducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejkej87/Redux_reducer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejkej87/Redux_reducer/issues"
+  },
+  "homepage": "https://github.com/ejkej87/Redux_reducer#readme"
+}
